@@ -6,7 +6,7 @@
 
 4. Methods and materials should be split to give the setup and measuremetns versus the analysis techniques. The analysis is not at all clear - the abstract mentions a "sinusoidal regression" but eq 4 is not sinusoidal nor is the curve in Fig 2. No explanation is given of what software was used to do the analysis or if the code and raw adata are available; thus the work is not replicable.
 
-5. Results mixes in parts that should be in methods - e.g. "connecting a line of best fit" - what does this even mean? "We estimated the maximum range..." HOW? "Figure 2 uses a sinusoidal regression" what does that mean?
+5. Results mixes in parts that should be in methods - e.g. "connecting a line of best fit" - what does this even mean? "We estimated the maximum range..." HOW? "Figure 2 uses a sinusoidal regression" what does that mean? There are no stats given for the "sinusoidal regression" explaining if it is a good fit or not - please do not just give R^2 as the only statistic used.
 
 6. The discssion needs to refer back to the figures and make a statement on if the different hypotheses are supported or not.  "Our results would naturally differ from Tartaglia's claim" - he made several claims and they are not clear which one they are testing.
 
