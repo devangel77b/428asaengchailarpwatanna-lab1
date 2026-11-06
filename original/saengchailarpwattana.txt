@@ -1,0 +1,15 @@
+1. This is a review of the manuscript "Marble shooting lab" by Saengchailarpwattana et al, submitted as a research article to J S&E. I recommend major revisions.
+
+2. The manuscript needs a more informative title that says what was acutally found. The abstract seems to confuse what order Tartaglia, Galileo, and Newton worked and made their various proposals.
+
+3. Introduction is lacking references and citations. It states "we will find useful information" (???) and only lists one testable hypothesis about 45 deg - which is rather trivial - compared to several alternatives from Tartaglia, Galileo, and Newton. 
+
+4. Methods and materials should be split to give the setup and measuremetns versus the analysis techniques. The analysis is not at all clear - the abstract mentions a "sinusoidal regression" but eq 4 is not sinusoidal nor is the curve in Fig 2. No explanation is given of what software was used to do the analysis or if the code and raw adata are available; thus the work is not replicable.
+
+5. Results mixes in parts that should be in methods - e.g. "connecting a line of best fit" - what does this even mean? "We estimated the maximum range..." HOW? "Figure 2 uses a sinusoidal regression" what does that mean?
+
+6. The discssion needs to refer back to the figures and make a statement on if the different hypotheses are supported or not.  "Our results would naturally differ from Tartaglia's claim" - he made several claims and they are not clear which one they are testing.
+
+7. ONly a single reference is given. REferences are definitely needed for what the authors think Tartaglia, Galileo, or Newton stated... and probably to back up their equations and assumptions. References are also needed for any software packages or routines used that the authors did not write.
+
+8. There is no acknowledgement with explanation of author contributions.
